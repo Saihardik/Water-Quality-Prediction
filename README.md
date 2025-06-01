@@ -65,50 +65,16 @@ WaterNet/
 
 ---
 
-## 🛠️ How to Run Locally
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/WaterNet.git
-   cd WaterNet
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Train the model (optional):
-   ```bash
-   python -c "from app.ml_model import train_and_save_model; train_and_save_model()"
-   ```
-
-4. Run the server:
-   ```bash
-   python run.py
-   ```
-
-5. Open your browser and go to:
-   ```
-   http://127.0.0.1:5000/
    ```
 
 ---
 
-## 📄 Project Report
 
-> The detailed project documentation and explanation of features, ML model, dataset, and flowcharts can be found in the DOCX report:
-📎 [`WaterNet_Final_Report.docx`](WaterNet_Final_Report.docx)
-
----
 
 ## 👨‍💻 Developed by
 
-**Sai Harsha**  
+**Sai Hardik**  
 Project Title: *WaterNet — A Network for Monitoring and Assessing Water Quality*
 
 ---
 
-## ⭐ License
-
-This project is for educational purposes only. For commercial or research use, please cite the source or contact the author.
