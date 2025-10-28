@@ -74,7 +74,7 @@ WaterNet/
 ## 👨‍💻 Developed by
 
 **Sai Hardik**  
-Project Title: *WaterNet — A Network for Monitoring and Assessing Water Quality*
+Project Title: *Water Quality prediction*
 
 ---
 
